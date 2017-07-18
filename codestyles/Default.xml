@@ -1,6 +1,7 @@
 <code_scheme name="Default">
   <option name="RIGHT_MARGIN" value="100" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <option name="HTML_QUOTE_STYLE" value="Single" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
     <option name="MANIFEST_SETTINGS">
